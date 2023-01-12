@@ -1,0 +1,13 @@
+.not-found-image {
+  width: 40%;
+}
+
+.not-found-container {
+  text-align: center;
+  padding: 10%;
+  font-family: Roboto;
+}
+
+.not-found-heading {
+  font-size: 26px;
+}
